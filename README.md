@@ -1,1 +1,2 @@
 # talProj
+# mimick stuff
